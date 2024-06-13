@@ -1,9 +1,7 @@
 <h1 align="center">PaskaSpammer</h1> 
 <p align="center">
 
-</p>
-<img src="Img/![image](https://github.com/pissasetaaa/PaskaSpammer/assets/169842566/d6feebda-79fb-49ae-87f8-61ec61d6e562)" wdth="9999">
-<p align="center">
+![image](https://github.com/pissasetaaa/PaskaSpammer/assets/169842566/d6feebda-79fb-49ae-87f8-61ec61d6e562)"
   
 ```
                       __                                                       
